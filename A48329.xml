@@ -1,0 +1,959 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of numbring by speaking-rods, vulgarly termed Nepeirs bones by which the most difficult parts of arithmetick, as multiplication, division, and extracting of roots both square and cube, are performed with incredible celerity and exactness (without any charge to the memory) by addition and subtraction only / published by W.L.</title>
+            <title>Art of numbring by speaking-rods, vulgarly called Nepeirs bones</title>
+            <author>Leybourn, William, 1626-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48329</idno>
+            <idno type="STC">Wing L1904</idno>
+            <idno type="STC">ESTC R21895</idno>
+            <idno type="EEBO-CITATION">12408138</idno>
+            <idno type="OCLC">ocm 12408138</idno>
+            <idno type="VID">61447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 282:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of numbring by speaking-rods, vulgarly termed Nepeirs bones by which the most difficult parts of arithmetick, as multiplication, division, and extracting of roots both square and cube, are performed with incredible celerity and exactness (without any charge to the memory) by addition and subtraction only / published by W.L.</title>
+                  <title>Art of numbring by speaking-rods, vulgarly called Nepeirs bones</title>
+                  <author>Leybourn, William, 1626-1716.</author>
+               </titleStmt>
+               <extent>[10], 86 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Sawbridge and are to be sold at his house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Leybourn. Cf. BM.</note>
+                  <note>An enlarged edition was published in 1721 under title: The description and use of ... Gunter's quadrant ... to which is added the use of Nepiar's bones.</note>
+                  <note>Folded table inserted.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quadrant.</term>
+               <term>Sundials --  Early works to 1800.</term>
+               <term>Mathematical instruments.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61447:1" rendition="simple:additions"/>
+            <pb facs="tcp:61447:1"/>
+            <p>The <hi>ART</hi> of NUMBRING BY <hi>SPEAKING-RODS:</hi> Vulgarly termed <hi>Nepeirs</hi> Bones.</p>
+            <p>By which The moſt difficult Parts of <hi>ARITHMETICK,</hi> As <hi>Multiplication, Diviſion,</hi> and <hi>Ex<g ref="char:EOLhyphen"/>tracting</hi> of <hi>Roots</hi> both Square and Cube, Are performed with incredible Cele<g ref="char:EOLhyphen"/>rity and Exactneſs (without any charge to the Memory) by <hi>Addi<g ref="char:EOLhyphen"/>tion</hi> and <hi>Subſtraction</hi> only.</p>
+            <p>Publiſhed by <hi>W. L.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>G. Sawbridge,</hi> and are to be ſold at his Houſe on <hi>Clerkenwell</hi>-Green, 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:61447:2" rendition="simple:additions"/>
+            <pb facs="tcp:61447:2"/>
+            <head>THE <hi>ARG<g ref="char:V">Ʋ</g>MENT</hi> TO THE READER.</head>
+            <p>THe Right Honourable <hi>John</hi> Lord <hi>Nepeir,</hi> Baron of <hi>Merchiſton</hi> in <hi>Scotland;</hi> In the Compo<g ref="char:EOLhyphen"/>ſure of thoſe ever to be ad<g ref="char:EOLhyphen"/>mired <hi>Tables</hi> of his Inven<g ref="char:EOLhyphen"/>tion called <hi>Logarithms,</hi>
+               <pb facs="tcp:61447:3"/>finding his Calculations ſo laborious in long and tedi<g ref="char:EOLhyphen"/>ous Multiplications, Divi<g ref="char:EOLhyphen"/>ſions, and Extracting of Roots, that his Invention to him muſt needs render it ſelf very unpleaſant, had he not known that the Labour when finiſhed will crown both Him and his Work. He adviſed with divers Learn<g ref="char:EOLhyphen"/>ed men ſtudious in the Sci<g ref="char:EOLhyphen"/>ences Mathematical, and to them (and amongſt them) eſpecially to Mr. <hi>Henry Briggs,</hi> who (by a Learn<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:61447:3" rendition="simple:additions"/>and able Divine) was ſtyled (and not without due reſpect) our <hi>Engliſh Archimedes,</hi> to him, I ſay, this honourable Lord imparted his <hi>Invention,</hi> who joyning iſſue with him in this <hi>Herculean Labour,</hi> brought them to that per<g ref="char:EOLhyphen"/>fection to which they are now (to the admiration of all <hi>Europe</hi>) arrived.</p>
+            <p>In the tedious calcula<g ref="char:EOLhyphen"/>tion of theſe Numbers, the Author finding his Work to go on but very ſlowly, at
+<pb facs="tcp:61447:4"/>length ſtudying out for ſome help by Art to aſſiſt him in this his Noble Enterpriſe, thinking upon ſeveral helps; at laſt (by the bleſſing of God) he hapned to finde out this which I here in<g ref="char:EOLhyphen"/>tend to deſcribe and ſhew the uſe of, with ſome Additions and variation, from what he hath himſelf done in his <hi>Treatiſe</hi> in <hi>Latine,</hi> Pub<g ref="char:EOLhyphen"/>liſhed and Printed at <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> in <hi>Scotland,</hi> in <hi>Anno 1617,</hi> Entituled <hi>Rabdologiae ſeu Nume<g ref="char:EOLhyphen"/>rationis
+<pb facs="tcp:61447:4"/>per Virgulas.</hi> The uſes whereof I ſhall in the following <hi>Tractate</hi> endea<g ref="char:EOLhyphen"/>vour to render ſo plain and eaſie, that he that can but Add and Substract ſhall be made able in a days time and leſs to Multiply and Di<g ref="char:EOLhyphen"/>vide any great Numbers, nay, and to Extract both the Square and Cube Roots.</p>
+            <p>I have begun this <hi>Trea<g ref="char:EOLhyphen"/>tiſe</hi> with the <hi>Fabrick</hi> and <hi>Inſcription</hi> of theſe <hi>Rods</hi> according to the <hi>Authors</hi> Deſcription, which being
+<pb facs="tcp:61447:5"/>not ſo convenient either for Portability or Practice, as ſome others which I have ſeen and uſed, I have de<g ref="char:EOLhyphen"/>ſcribed them (I think) in the beſt manner they poſ<g ref="char:EOLhyphen"/>ſible can be contrived.</p>
+            <p>For their <g ref="char:V">Ʋ</g>ſe, I am ſure I have done more than hi<g ref="char:EOLhyphen"/>therto I have ſeen done, and (if I miſtake not) to as good and effectual purpoſe. I do not publiſh it as a No<g ref="char:EOLhyphen"/>velty, neither do I attribute much in it to my ſelf, be<g ref="char:EOLhyphen"/>ſides the Method, for had I
+<pb facs="tcp:61447:5"/>not been deſired, I ſhould hardly have thought upon it; however it being done, Accept it and <g ref="char:V">Ʋ</g>ſe it, till I direct ſomething elſe to thee which may be more accepta<g ref="char:EOLhyphen"/>ble, till when, I bid thee heartily</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="tables">
+            <pb facs="tcp:61447:6"/>
+            <head>Place this Figure at the begining of the Book</head>
+            <p>
+               <figure>
+                  <head>Fig: 2.</head>
+               </figure>
+               <figure>
+                  <head>Fig: 3.</head>
+               </figure>
+               <pb facs="tcp:61447:6"/>
+               <figure>
+                  <head>Fig: 4.</head>
+               </figure>
+               <figure>
+                  <head>Square. Cube.</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:61447:7"/>
+               <pb n="1" facs="tcp:61447:7"/>
+               <head>CHAP. I. Concerning the <hi>Fabrick</hi> and <hi>Inſcription</hi> Of theſe RODS.</head>
+               <p>IN the foregoing Argument I told you, That the Author and Inven<g ref="char:EOLhyphen"/>ter of this kind of Inſtrument, of which I intend to ſhew the Uſe, called it <hi>RABDOLOGIA,</hi> and the Word he thus defines:</p>
+               <p>
+                  <hi>RABDOLOGIA eſt Ars Compu<g ref="char:EOLhyphen"/>tandi per Virgulas numeratrices.</hi> That is, <hi>RABDOLOGIE</hi> is the Art of Counting by Numbering Rods.</p>
+               <div n="1" type="section">
+                  <pb n="2" facs="tcp:61447:8"/>
+                  <head>
+                     <hi>I.</hi> Of the Fabrick of theſe Rods according to the Inventors De<g ref="char:EOLhyphen"/>ſcription of them.</head>
+                  <p>Theſe Rods may be made either o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Silver, Braſs, Box, Ebony, or Ivory</hi> of which laſt ſubſtance I ſuppoſe the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> were at firſt made, for that they ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> (for the moſt part) by all that know or uſe them, called <hi>NEPAIRS<g ref="char:EOLhyphen"/>BONES.</hi>
+                  </p>
+                  <p>But let the matter of which they are made be what it will, their form (according to this deſcription) i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exactly a ſquare Parallelepipedon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the length being about three Inches<g ref="char:punc">▪</g> and the breadth of them about One<g ref="char:punc">▪</g> tenth part of the length. But the length of theſe Rods are not confined to three Inches, but let the length be what it will, the breadth muſt be a tenth part thereof, but that may be accounted a competent breadth that
+<pb n="3" facs="tcp:61447:8" rendition="simple:additions"/>is capable of receiving of two nume<g ref="char:EOLhyphen"/>rical Figures, for there is never upon one Rod required more to be ſet on the breadth thereof.</p>
+                  <p>The breadth of theſe Rods being exactly One tenth part of the length thereof, when 10 of theſe are laid together they do exactly make a Geo<g ref="char:EOLhyphen"/>metrical ſquare, and if 20 of them be tabulated or laid together, they will make a right-angled Parallelo<g ref="char:EOLhyphen"/>gram, whoſe length is double to its breadth. If 30 be tabulated, the Fi<g ref="char:EOLhyphen"/>gure will be ſtill a Parallelogram, whoſe length will be three times the breadth, and ſo if 40, four times the length 65, <hi>ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 650.</p>
+                  <p>The Rods being thus prepared of exact length and breadth, let each of them be divided into 10 equal parts, with this <hi>Proviſo,</hi> that Nine of the Ten parts ſtand in the middle of each Rod, and the other tenth part muſt be divided into two parts, half
+<pb n="4" facs="tcp:61447:9" rendition="simple:additions"/>whereof muſt be ſet at the one end and the other half at the other end o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the ſame Rod. Then from ſide t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſide draw right Lines from diviſion <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> diviſion, ſo is your Rod divided in<g ref="char:EOLhyphen"/>to Squares on every ſide thereof Laſtly, from corner to corner of ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of theſe Squares draw a Diagona<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Line, and that will divide ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Square into two Triangles. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rods being thus prepared and line<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> firſt into Squares, and then into Tri<g ref="char:EOLhyphen"/>angles, they are then fit to be num<g ref="char:EOLhyphen"/>bered.</p>
+                  <p>The Figure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at the beginning of the Book ſhews the Form of one of theſe Rods lined as it ought to be.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="5" facs="tcp:61447:9"/>
+               <head>
+                  <hi>CHAP. II.</hi> How theſe Rods are to be Num<g ref="char:EOLhyphen"/>bred.</head>
+               <p>IN the two half Squares which are at the ends of each Rod on every ſide, there are ſet one ſingle Figure, on each ſide of every Rod one, in the diviſion at the end thereof, ſo every Rod containing four ſides, Ten Rods will contain 40 ſides, and ſo conſequently will have 40 ſingle Fi<g ref="char:EOLhyphen"/>gures at the ends of every of them; that is, there will be upon the ten Rods amongſt them four Figures of each kinde, that is, four Ones, 1111. four twos, 2222. four threes, 3333. four fours, 4444. four fives, 5555. four ſixes, 6666. four ſevens, 7777. four eights, 8888. four nines, 9999. four Cyphers, 0000.</p>
+               <pb n="6" facs="tcp:61447:10" rendition="simple:additions"/>
+               <p>And here it is to be noted, That what Figure ſoever it be that ſtandeth at the top of the Rod alone, the Figure that ſtandeth alone on the other ſide of the ſame Rod, maketh that figure up the number 9. As for exam<g ref="char:EOLhyphen"/>ple; If 1 ſtand on one ſide, 8 will ſtand on the other ſide, ſo 2 and 7 be: As in this Ta<g ref="char:EOLhyphen"/>ble, where,
+<table>
+                     <row>
+                        <cell rows="10">If</cell>
+                        <cell>1</cell>
+                        <cell rows="10">ſtands alone at the top of any ſide of any of the Rods, then</cell>
+                        <cell>8</cell>
+                        <cell rows="10">ſtandeth on the other ſide of the ſame Rod.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>ſtands alone</cell>
+                        <cell>6</cell>
+                        <cell>ſtandeth on</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>at the top of</cell>
+                        <cell>5</cell>
+                        <cell>the other</cell>
+                     </row>
+                     <row>
+                        <cell>If</cell>
+                        <cell>5</cell>
+                        <cell>any ſide of</cell>
+                        <cell>4</cell>
+                        <cell>ſide of the</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>any of the</cell>
+                        <cell>3</cell>
+                        <cell>ſame Rod.</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>Rods, then</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>0</cell>
+                     </row>
+                  </table> This alſo is to be obſerved in the figu<g ref="char:EOLhyphen"/>ring of every Rod, that what figure
+<pb n="7" facs="tcp:61447:10" rendition="simple:additions"/>ſoever ſtandeth alone at the top or ſu<g ref="char:EOLhyphen"/>perior part of the Rod, the figure or figures that ſtand in the two Trian<g ref="char:EOLhyphen"/>gles next underneath it, is double to the figure which ſtandeth at the top. And the figures which ſtand in the next two Triangles below, that is three times as much as the figure a<g ref="char:EOLhyphen"/>bove. And that in the fourth place, or Triangles, is four times as much as the figure above 650, till you come to the loweſt Triangles in that Rod, and then the figure or figures that ſtand in thoſe Triangles are nine times as much as the figure which ſtandeth at the top of the Rod.</p>
+               <p>So if a Rod have 4 at the top thereof, in the two Triangles which are juſt and next under it, hath only 4 in them, which is equal to 4; in the next two Triangles below, there is 8, which is double to 4; in the two Triangles below them, is 1 and 2, which together make 12, which is
+<pb n="6" facs="tcp:61447:11" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:61447:11" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:61447:12"/>three times as much as the 4 at the top; the next Triangles have in them 16, which is four times as much; the next 20, which is five times as much; the ſixth hath 24, which is ſix times as much. The next Triangles have in them 28, which is ſeven times 4; the next hath 32, which is eight times as much: And the laſt Triangles at the bottom they have 36 in them, which is nine times as much. All which is viſible by the Figure 2 at the beginning of the Book.</p>
+               <p>And is evident enough by this lit<g ref="char:EOLhyphen"/>tle Table following, which is the Ta<g ref="char:EOLhyphen"/>ble of Multiplication, commonly cal<g ref="char:EOLhyphen"/>led <hi>Pythagoras</hi> his Table.</p>
+               <pb n="9" facs="tcp:61447:12"/>
+               <p>
+                  <table>
+                     <head>Figures at the top of each Rod.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="9">The figures in the</cell>
+                        <cell role="label">Firſt</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell role="label" rows="9">Square which are</cell>
+                        <cell>1</cell>
+                        <cell role="label">Times as much as the Fi<g ref="char:EOLhyphen"/>gure at the top.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Second</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                        <cell>10</cell>
+                        <cell>12</cell>
+                        <cell>14</cell>
+                        <cell>16</cell>
+                        <cell>18</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Third</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                        <cell>9</cell>
+                        <cell>12</cell>
+                        <cell>15</cell>
+                        <cell>18</cell>
+                        <cell>21</cell>
+                        <cell>24</cell>
+                        <cell>27</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Fourth</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>8</cell>
+                        <cell>12</cell>
+                        <cell>16</cell>
+                        <cell>20</cell>
+                        <cell>24</cell>
+                        <cell>28</cell>
+                        <cell>32</cell>
+                        <cell>36</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Fifth</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                        <cell>15</cell>
+                        <cell>20</cell>
+                        <cell>25</cell>
+                        <cell>30</cell>
+                        <cell>35</cell>
+                        <cell>40</cell>
+                        <cell>45</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Sixth</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>12</cell>
+                        <cell>18</cell>
+                        <cell>24</cell>
+                        <cell>30</cell>
+                        <cell>36</cell>
+                        <cell>42</cell>
+                        <cell>48</cell>
+                        <cell>54</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Seventh</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                        <cell>14</cell>
+                        <cell>21</cell>
+                        <cell>28</cell>
+                        <cell>35</cell>
+                        <cell>42</cell>
+                        <cell>49</cell>
+                        <cell>56</cell>
+                        <cell>63</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Eighth</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                        <cell>16</cell>
+                        <cell>24</cell>
+                        <cell>32</cell>
+                        <cell>40</cell>
+                        <cell>48</cell>
+                        <cell>56</cell>
+                        <cell>64</cell>
+                        <cell>72</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Ninth.</cell>
+                        <cell>0</cell>
+                        <cell>9</cell>
+                        <cell>18</cell>
+                        <cell>27</cell>
+                        <cell>36</cell>
+                        <cell>45</cell>
+                        <cell>54</cell>
+                        <cell>63</cell>
+                        <cell>72</cell>
+                        <cell>81</cell>
+                        <cell>9</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="10" facs="tcp:61447:13"/>
+               <p>Thus have you the <hi>Fabrick, In<g ref="char:EOLhyphen"/>ſeription and Numbering</hi> of theſe Rods, according to the Inventor contrivance of them: He make mention of Ten of them, and hath in his Book ſet the figure of the ſaith Ten, of one of which Ten I have given you a Scheme at the beginning of the Book, which is Figure 2. will now proceed to give you the deſcription of theſe Rods in another more commodious form.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> A Deſcription of theſe Rods ac<g ref="char:EOLhyphen"/>cording to their beſt and la<g ref="char:EOLhyphen"/>teſt Contrivance.</head>
+               <p>THe Deſcription which I ſhall here give of theſe Rods, varies not at all from that before delivered
+<pb n="11" facs="tcp:61447:13" rendition="simple:additions"/>in the matter of which they are made, for theſe may be made either in Sil<g ref="char:EOLhyphen"/>ver, Braſs, Wood, Ivory, <hi>&amp;c.</hi> Nei<g ref="char:EOLhyphen"/>ther do they differ in their dividing, nor yet in their numbering: Only whereas my Lord <hi>Nepair</hi> maketh them ſquare, each Rod to contain four ſides, theſe are made flat, con<g ref="char:EOLhyphen"/>ſulting each Rod but of two ſides, and contain in length about 2 inches 2/10. and in breadth 1/2 of an inch. and in thickneſs 1/12 of an inch.</p>
+               <p>One ſet of theſe Rods conſiſteth of five pieces, and therefore hath but ten Faces or ſides, whereas thoſe of the Lord <hi>Nepairs</hi> conſiſted of 40 Plains or ſides.</p>
+               <p>Upon one of theſe five pieces (a Figure whereof is at the beginning of the Book, noted with Figure 3) you have a Cypher at the head of the firſt piece, and 9 at the bottom thereof. Upon the ſecond of them you have at the head, and 8 at the bottom:
+<pb n="12" facs="tcp:61447:14"/>upon the third you have 2 at the head and 7 at the bottom; upon the fourth 3 at top and 6 at bottom; and upon the fifth you have 4 at the top, and 5 at the bottom. Every of the two Figures at the top and bottom toge<g ref="char:EOLhyphen"/>ther make 9; as 0 and 9 is 9, 1 and 8, 2 and 7, 3 and 6, 4 and 5. And her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obſerve, that the Figures 9 8 7 6 5 which ſtand at the bottom of the Scheme ſtand with their heels up<g ref="char:EOLhyphen"/>wards, in this manner, 9 8 7 6 5, and ſo do all the other figures under them till you come to the double Line which is in the middle of the Scheme noted with <hi>A</hi> and <hi>B,</hi> at which Line if the Scheme were cut into two pie<g ref="char:EOLhyphen"/>ces, and folded or paſted on the back<g ref="char:EOLhyphen"/>ſide of the other half, ſo that the 9 at the bottom were placed upon the Cypher at the top, and ſo 8 upon 1 7 upon 2, 6 upon 3, and 5 upon 4, and then the Scheme cut again into five little ſlippers by the down-right
+<pb n="13" facs="tcp:61447:14" rendition="simple:additions"/>Lines; theſe five ſlippets would ex<g ref="char:EOLhyphen"/>actly repreſent one ſet of theſe Rods, for upon one ſide of one of theſe pie<g ref="char:EOLhyphen"/>ces, you ſhould have a Cypher upon one ſide, and 9 on the other: Upon the next 1 and 8, upon another 2 and 7, on another 3 and 6, and on the o<g ref="char:EOLhyphen"/>ther 5 and 4; both the Figures on either ſide making 9, as before was deſcribed.</p>
+               <p>Theſe five ſlippets do now contain the whole Table of <hi>Pythagoras</hi> before mentioned, but for ſo few are not of ſufficient uſe, neither are the Ten be<g ref="char:EOLhyphen"/>fore mentioned of the Lord <hi>Nepair</hi>'s order; for there can be but four Fi<g ref="char:EOLhyphen"/>gures of one kind, which in all caſes is not ſufficient.</p>
+               <p>Therefore as theſe Rods are made now a days, they do commonly make ſix ſets of them, that is, 30 pieces, which contain 60 faces, and theſe will be of good uſe, and there will ſel<g ref="char:EOLhyphen"/>dom be found a want, which in thoſe
+<pb n="14" facs="tcp:61447:15"/>of the Inventors there will often be, except you have a great quantity, which will be far more cumberſom than theſe here deſcribed, for there is required as much Metal or Wood in one of his, as in four of theſe, and then for his Four ſides we have here Eight.</p>
+               <div type="section">
+                  <head>Concerning a <hi>Caſe</hi> for theſe Rods.</head>
+                  <p>For the orderly keeping and ready finding of theſe Rods, I have often (for my ſelf and others) had a Box made of Walnut-tree or Pear-tree, with five partitions in it, each par<g ref="char:EOLhyphen"/>tition to hold five or ſix ſets of theſe Rods, or more if more Rods were required. Every of theſe partitions being figured on the ſide thereof next the Eye, with ſuch figures as the Rods in ſuch a partition had figures at the top, ſo that the party that was to
+<pb n="15" facs="tcp:61447:15" rendition="simple:additions"/>uſe them, could take them as readily out of his partition, as a Printer can take his Letters out of his reſpective Boxes to make any Word.</p>
+                  <p>In this Box there is alſo conveni<g ref="char:EOLhyphen"/>ent room made for one other Rod, double in breadth to theſe here de<g ref="char:EOLhyphen"/>ſcribed, but of the ſame length and thickneſs; upon the one ſide where<g ref="char:EOLhyphen"/>of there is a Table or Plate uſeful in the Extracting of the Square Root, and on the other ſide another for the Extracting of the Cube Root, the Fi<g ref="char:EOLhyphen"/>gure whereof is at the beginning of the Book, noted with Figure, But I ſhall forbear to ſay any thing of them, till I come to ſhew you how to Extract the Square and Cube Roots by the help of them and the Rods.</p>
+               </div>
+               <div type="section">
+                  <pb n="16" facs="tcp:61447:16"/>
+                  <head>Of a Board with a Frame, upon which to lay your Rods, when any Operation is to be wrought by them, known by the name of a TABULAT.</head>
+                  <p>In the uſing of theſe Rods, care is to be had firſt of the orderly laying of them, and then ſecondly, for the keeping of them in that poſition till your work be ended. For the effect<g ref="char:EOLhyphen"/>ing whereof, both neatly and cer<g ref="char:EOLhyphen"/>tainly, there is a little Table or Frame contrived, containing in breadth 1/20 of an Inch more than the length of the Rods, and in length at pleaſure, but it may well be about once and a half the length of the breadth.</p>
+                  <p>It ought to be made of a thin piece of Pear or Walnut-tree, or of ſuch matter as your Box or Caſe is made of, and it may very commodi<g ref="char:EOLhyphen"/>ouſly be contrived to be put into the
+<pb n="17" facs="tcp:61447:16" rendition="simple:additions"/>Box as I ever had them made to do, for that I found it inconvenient to carry looſe.</p>
+                  <p>Upon the Superficies of this Board, cloſe to one of the edges thereof, muſt be glewed, or otherwiſe faſtned with Pins, a ſmall piece of the ſame matter and alſo of the ſame length, breadth, and thickneſs of one of your Rods, which muſt be divided into 9 equal parts, and Lines drawn croſs the piece, ſo will there be 9 Squares, in which you muſt Grave or ſtamp the nine Digits, beginning with 1 at the top, and ſo deſcending by 2 3 4 to 9 at the bottom thereof: And it were neceſſary that theſe Fi<g ref="char:EOLhyphen"/>gures (as alſo thoſe which are at the head of every of your Rods) were graven or ſtamped of ſomething a bigger Figure then the other figures of your Rods are.</p>
+                  <p>Under the end of this ledge be<g ref="char:EOLhyphen"/>ginning at the Figures, and ſo conti<g ref="char:EOLhyphen"/>nuing
+<pb n="18" facs="tcp:61447:17"/>the whole length of the Board, muſt another ledge of the ſame matter and thickneſs as the other, be glewed or pinned, and then is your <hi>Tabulat</hi> finiſhed. A Figure whereof you have at the beginning of the Book, noted with Figure 4, it is called a <hi>Tabulat,</hi> for that when the Rods are laid there<g ref="char:EOLhyphen"/>on, for any Operation to be wrought by them, we uſually ſay, the Rods are Tabulated.</p>
+                  <p>Being thus prepared with Rods and Tabulat, you are ready for the work intended by them, and for which chiefly they were invented.</p>
+                  <p>Thus much for the Fabrick, In<g ref="char:EOLhyphen"/>ſcription, and Numbering of theſe Rods; let us now come to ſhew the Uſes of them.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="19" facs="tcp:61447:17"/>
+               <head>
+                  <hi>CHAP. IV.</hi> To what Uſe theſe Rods general<g ref="char:EOLhyphen"/>ly ſerve.</head>
+               <p>THe chief Uſes to which theſe ſmall Rods ſerve unto, I in part intimated at the beginning, to which effect I ſhall repeat it again—for by them all manner of Multiplications and Diviſions, as alſo of the Extra<g ref="char:EOLhyphen"/>ction of both the Roots either Square or Cube, are ſo facilly and expediti<g ref="char:EOLhyphen"/>ouſly performed, and that by the help of Addition and Subſtraction only, that it is (as I may well ſay) in<g ref="char:EOLhyphen"/>conceivable, for here is no charge at all required of the Memory, and you ſhall aſſuredly take your Quotient Figure in Diviſion always certain; neither too great nor to little, an in<g ref="char:EOLhyphen"/>convenience ſo prejudicial, that I leave it to the cenſure of ſuch as
+<pb n="20" facs="tcp:61447:18"/>have found it, to their great loſs of time, and other vexation which it hath put them to. But ceaſing to ſay more of their properties, I will now come to ſhew their Uſe.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> How to apply or lay down any Numbers by the Rods.</head>
+               <div n="1" type="proposition">
+                  <head>
+                     <hi>PROP. I.</hi> Any Number being given, how to Tabulate or lay down the ſame by the Rods.</head>
+                  <p>LEt it be required to Tabulate or lay down this Number 3 4 9 6.</p>
+                  <p>Firſt, From among your Sets of Rods, (or out of your Caſe) take four of them, of which let one of them have the Figure 3 at the top thereof,
+<pb n="21" facs="tcp:61447:18"/>and lay it upon your Tabulat cloſe to the edge thereof,; then,</p>
+                  <p>Secondly, Take another Rod from your Caſe, which hath the Figure 4 at the top of it, and lay that alſo upon your Tabulat cloſe by the ſide of the other.</p>
+                  <p>Thirdly, Take another Rod which hath the Figure 9 at the top of it, and lay that upon your Tabulat cloſe by the other two.</p>
+                  <p>And laſtly, take a fourth Rod, ha<g ref="char:EOLhyphen"/>ving the figure 6 at the head thereof, and lay that alſo upon your Tabulat cloſe by the reſt.</p>
+                  <p>Theſe four Rods thus taken, and laid upon the Tabulat, you ſhall ſee in the uppermoſt Row (which ſtand<g ref="char:EOLhyphen"/>eth againſt the Figure 1 on the ſide of your Tabulat) theſe four Figures, 3 4 9 6, that is 3496, equal to your given Number. In the ſecond Row (againſt the figure 2 of your Tabu<g ref="char:EOLhyphen"/>lat) you ſhall finde the double there<g ref="char:EOLhyphen"/>of.
+<pb n="22" facs="tcp:61447:19" rendition="simple:additions"/>In the third (againſt the figure 3) you ſhall finde the triple thereof. In the fourth the Quadruple thereof. In the fifth the Quintuple; and ſo on the ninth and laſt, in which you ſhall finde the Noncuple of the Number given.</p>
+               </div>
+               <div n="2" type="proposition">
+                  <head>
+                     <hi>PROP. II.</hi> How theſe Rods will appear when Tabulated, and being Tabulated, how to read the Multiplication of that Number ſo Tabulated, by any of the Nine Digits.</head>
+                  <p>The Four Rods being Tabulated according to the Precepts delivered in the preceding <hi>Propoſition,</hi> they will appear exactly as they are repre<g ref="char:EOLhyphen"/>ſented in <hi>Figure</hi> 4 at the beginning of the Book, which Figure lively re<g ref="char:EOLhyphen"/>preſents the four Rods lying upon the Tabulat, which minde well, for upon the true tabulating, and right
+<pb n="23" facs="tcp:61447:19"/>reading of the Rods ſo tabulated, de<g ref="char:EOLhyphen"/>pends the whole Work.</p>
+                  <p>The Rods thus Tabulated, and as you ſee them in the <hi>Figure</hi> 4, do to the eye appear in the form of a Glaſs-window, every Pane thereof repre<g ref="char:EOLhyphen"/>ſenting a Rhomboyades or Diamond form: In the reading of the Figures which are in theſe ſeveral Rhom<g ref="char:EOLhyphen"/>boyades or Diamond form, obſerve theſe few Directions following, which will fully illuſtrate the whole buſineſs intended, and therefore eſpecially to be minded.</p>
+                  <div type="note">
+                     <head>Note,</head>
+                     <p n="1">
+                        <hi>I.</hi> That the Figures upon the Rods are to be read beginning at the right hand and reading towards the left; <hi>which is contrary to our common courſe of reading and writing, which is from the left hand towards the right.</hi>
+                     </p>
+                     <p n="2">
+                        <pb n="24" facs="tcp:61447:20"/>
+                        <hi>II.</hi> That in every Rhomboyades or Diamond, there are either One Fi<g ref="char:EOLhyphen"/>gure, or Two Figures, but never more then Two.</p>
+                     <p n="3">
+                        <hi>III.</hi> If there be but one Figure in a Rhombus, then that Figure is the Figure to be ſet down alone <hi>(be it either a Figure or a Cypher)</hi> but if there be two Figures in a Rhomboy<g ref="char:EOLhyphen"/>ades <hi>(as for the moſt part there is)</hi> then add them two Figures together, and ſet down their ſum in one Fi<g ref="char:EOLhyphen"/>gure.</p>
+                     <p n="4">
+                        <hi>IV.</hi> But if the ſum of the two Fi<g ref="char:EOLhyphen"/>gures in one Rhomboyades or Diamond do exceed Ten, then you muſt ſet down the overplus above Ten, and keep One in minde, which One you muſt carry to the next Rhomboyades.</p>
+                     <p n="5">
+                        <hi>V.</hi> Note that the firſt towards your
+<pb n="25" facs="tcp:61447:20"/>right hand, and the laſt towards your left hand are but half Rhomboyades or Diamonds, and never have in them more then one Figure onely, but all between them are whole ones, and for the moſt part have two Figures in them.</p>
+                     <p n="6">
+                        <hi>VI.</hi> If in either Rhomboyades or half Rhomboyades, you finde no Fi<g ref="char:EOLhyphen"/>gures but Cyphers, you muſt not neglect but ſet them down as if they were Fi<g ref="char:EOLhyphen"/>gures.</p>
+                     <p>¶ <hi>Theſe Rules being rightly un<g ref="char:EOLhyphen"/>derſtood, all that follows will be familiar and eaſie, and theſe I ſhall explain by Example fol<g ref="char:EOLhyphen"/>lowing.</hi>
+                     </p>
+                  </div>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>For the illuſtration of the pre<g ref="char:EOLhyphen"/>ceding Rules, we will make uſe of thoſe Rods which were before tabu<g ref="char:EOLhyphen"/>lated,
+<pb n="26" facs="tcp:61447:21" rendition="simple:additions"/>therefore have recourſe to <hi>Fi<g ref="char:EOLhyphen"/>gure</hi> 4 at the beginning of the Book, where this Number 3496 is tabu<g ref="char:EOLhyphen"/>lated.</p>
+                     <p>The Figures at the top of the Four Rods are theſe 3, 4, 9, 6. which ſig<g ref="char:EOLhyphen"/>nifie the former given number 3496, and this number ſtands againſt the figure 1 on the ſide of the Tabulat. Then I ſay, that the figures in the next row ſtanding againſt the figure <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Tabulat and double thereunto, which I thus prove.</p>
+                     <p>Repair to the Rods as they lie up<g ref="char:EOLhyphen"/>on the Tabulat, and in that row which lieth againſt the figure 2, you ſhall finde in the firſt half Rhomboyades towards your right hand (where <hi>by Rule</hi> 1 you muſt begin) the figure 2, wherefore ſet down with your Pen upon Paper the figure 2. In the next Rhomboyades, in the ſame row you ſhall finde 8 and 1, which added make 9, ſet down 9 on the left hand
+<pb n="27" facs="tcp:61447:21"/>of 2: In the next Rhombus you ſhall finde 8 and 1 again, which is 9 alſo, ſet down 9 on the left hand of the other, and in the laſt Rhomboyades you ſhall finde only 6, wherefore ſet down 6 on the left hand of 9, ſo have you in all 6992, which is double to 3496.</p>
+                     <p>Again, the figures in the row which ſtands againſt the figure 3 in the Ta<g ref="char:EOLhyphen"/>bulat, are triple to 3496; for in the firſt half Rhomboyades towards your right hand, you have 8, ſet down 8. — In the next Rhom. you have 7 and 1, which is 8, ſet down 8 again. — In the next you have 2 and 2, which is 4, ſet down 4.— In the next Rhom. you have 9 and 1, which makes 10, ſet down 0 and carry 1, but it is the laſt Rhom. and becauſe there is never another to carry the 1 unto, you muſt therefore ſet it down, ſo have you this number 10488, which is triple to 3496.</p>
+                     <pb n="28" facs="tcp:61447:22"/>
+                     <p>Again, the figures ſtanding againſt 4 in the Tabulat, are Quadruple to 3496,—for in the half Rhom. you have 4, ſet it down: in the next 6 and 2, which is 8, ſet that down. In the next 6 and 3 which is 9, ſet that down: In the next 2 and 1, which is 3, ſet that down: and in the laſt half Rhom. you have 1, which alſo ſet down: ſo have you 13984 which is Quadruple to 3496.</p>
+                     <p>Alſo, the figures againſt 5 in the Tabulat: the firſt is a Cypher there<g ref="char:EOLhyphen"/>fore put down 0; the next is 5 and 3 which is 8, ſet down 8; the next is 0 and 4, ſet down 4; the next is 5 and 2, that is 7, ſet down 7; and the laſt is 1, therefore ſet down 1, ſo have you in all 17480, which is Quintuple to 3496.</p>
+                     <p>Againſt 6 in the Tabulat, you have in the firſt place 6, ſet it down; then in the next 4 and 3, that is 7, ſet that down; in the next 4 and 5, that
+<pb n="29" facs="tcp:61447:22"/>is 9, ſet 9 down; in the next you have 8 and 2, that is 10, ſet down 0 and carry 1 to the next Rhom. where you finde onely 1, to which add the 1, which you carried from the Rhom. before, and it makes 2, ſet down 2: ſo have you 20976, which is ſix times 3496.</p>
+                     <p>Againſt 7 in the Tabulat, you have firſt 2, ſet it down; then 3 and 4, which is 7, ſet 7 down; in the next 8 and 6, which is 14, which being above 10, ſet down 4, and carry 1 to the next Rhom. where you have 2 and 1, which is 3, and 1, which you carried makes 4, ſet down 4; then in the laſt place you have onely 2, which ſet down, ſo have you in all 24472, which is Septuple to 3496, or ſeven times as much.</p>
+                     <p>Againſt 8 in the Tabulat, you have firſt 8, which ſet down; then 2 and 4, which is 6, ſet 6 down; then 2 and 7, which is 9, ſet 9 down; then 4 and 3,
+<pb n="30" facs="tcp:61447:23"/>which is 7, ſet 7 down; and laſtly 2, ſet that down, ſo have you 27968, which is Octuple to 3496, or eight times as much.</p>
+                     <p>Laſtly, againſt 9 in the Tabulat, you have in the firſt place 4, ſet that down,; in the next you have 1 and 5, which is 6, ſet 6 down; in the next place you have 6 and 8, which is 14, ſet down 4, and carry 1 to the next Rhom. where you finde 7 and 3, that is 10, which with 1 which you carried makes 11, ſet down 1, and carry 1 to the next Rhom. where you finde onely 2 and the 1 carried makes 3, therefore ſet down 3, and ſo you have 31464, which is Noncuple to 3496, or nine times as much as the tabulated number.</p>
+                     <p>Thus have I given you Examples, in ſhewing you how the Numbers up<g ref="char:EOLhyphen"/>on the Rods are to be read and writ<g ref="char:EOLhyphen"/>ten down, and in the delivery of this Example, I have made the whole
+<pb n="31" facs="tcp:61447:23"/>work which is to follow ſo plain and eaſie, that the meaneſt capacity (I think) if he can but tell his figures, and add any two figures together, he may by this here delivered, read or write down any number that can be tabulated; and that you may through<g ref="char:EOLhyphen"/>ly underſtand this Chapter before you proceed further, I will give you the Products of 7009078 multiplied by all the nine Digits which I would have your ſelf to tabulate, and ſee if you finde your working by your Rods to agree with thoſe which are here written, which numbers if they do, you need not ſcruple at the moſt diffi<g ref="char:EOLhyphen"/>cult that can be propoſed to you, therefore ſtudy it, and try it.</p>
+                     <list>
+                        <pb n="32" facs="tcp:61447:24"/>
+                        <label>7009078 being mul<g ref="char:EOLhyphen"/>tiplied by</label>
+                        <item>
+                           <list>
+                              <item>2</item>
+                              <item>3</item>
+                              <item>4</item>
+                              <item>5</item>
+                              <item>6</item>
+                              <item>7</item>
+                              <item>8</item>
+                              <item>9</item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <label>Produceth</label>
+                        <item>
+                           <list>
+                              <item>7009078</item>
+                              <item>14018156</item>
+                              <item>21027234</item>
+                              <item>28036312</item>
+                              <item>35045390</item>
+                              <item>42054468</item>
+                              <item>49063546</item>
+                              <item>56072624</item>
+                              <item>63081702</item>
+                           </list>
+                        </item>
+                     </list>
+                     <p>
+                        <hi>Thus have I ſufficiently deſcribed theſe Rods and the manner of Num<g ref="char:EOLhyphen"/>bring upon them; and now I think it time to apply them to that uſe for which they were intended, namely, the more difficult parts of Arithmetick, as Multiplication, Diviſion, and Ex<g ref="char:EOLhyphen"/>traction of Roots, but firſt let me give you</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>An Admonition concerning Ad<g ref="char:EOLhyphen"/>dition and Subſtraction.</head>
+                  <p>Whereas it was the difficult opera<g ref="char:EOLhyphen"/>rations of <hi>Arithmetick,</hi> which by the
+<pb n="33" facs="tcp:61447:24" rendition="simple:additions"/>benefit of theſe Rods, the Inventor chiefly aimed at (of which kind he eſteemed <hi>Multiplication, Diviſion,</hi> and <hi>Extraction of the Square and Cube Roots</hi>) he omitted to ſay any thing concerning <hi>Addition</hi> and <hi>Sub<g ref="char:EOLhyphen"/>ſtraction</hi> in things obvious to every <hi>Tyro,</hi> he therefore omitting them, be<g ref="char:EOLhyphen"/>gins to ſhew the uſe of his Rods in <hi>Multiplication,</hi> whoſe Method I ſhall here follow.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Multiplication by the Rods.</head>
+               <p>IN Multiplying by the Rods, you are to conſider (as in vulgar A<g ref="char:EOLhyphen"/>rithmetick) three Terms, Things, or Numbers, <hi>viz.</hi>
+               </p>
+               <p n="1">1. The <hi>Multiplicand,</hi> which is the Number to be multiplied.</p>
+               <p n="2">
+                  <pb n="34" facs="tcp:61447:25"/>2. The <hi>Multiplier,</hi> which is the Number by which the <hi>Multiplicand</hi> is multiplied.</p>
+               <p n="3">3. The <hi>Product,</hi> which is the ſum produced by the multiplying of the two former together.</p>
+               <p>And here note, that the <hi>Product</hi> doth contain the <hi>Multiplicand,</hi> ſo many times as there be <hi>Unites</hi> in the <hi>Multiplier.</hi>
+               </p>
+               <p>Thus for the definition of <hi>Multi<g ref="char:EOLhyphen"/>plication,</hi> now for the working there<g ref="char:EOLhyphen"/>of by the Rods, for which this is.</p>
+               <div type="rule">
+                  <head>THE RULE:</head>
+                  <p>
+                     <hi>Firſt, ſet down upon your Paper the Multiplicand, and orderly under it the Multiplier.</hi> It matters not greatly which of the two given Num<g ref="char:EOLhyphen"/>bers be made <hi>Multiplicand</hi> or <hi>Mul<g ref="char:EOLhyphen"/>tiplier,</hi> but it is uſual and beſt to make the greateſt Number <hi>Multipli<g ref="char:EOLhyphen"/>cand,</hi> and the leſſer <hi>Multiplier. Then
+<pb n="35" facs="tcp:61447:25"/>draw a Line with your Pen under them, and having Tabulated your Multipli<g ref="char:EOLhyphen"/>cand (or greater number) look what Numbers in your Rods ſtand againſt the firſt Figure towards your right hand, and that Number which you ſhall finde upon your Rods ſtanding a<g ref="char:EOLhyphen"/>gainſt that firſt Figure found in your Tabulat, ſet down under your Line which you formerly drew under your Multiplicand and Multiplier: And having ſo done with the firſt Figure of your Multiplier, do ſo with the reſt, ſetting them down one under another, removing every Figure one place more towards the left hand, then that which went before it, as is done in common Multiplication, and as you ſee in the following Example.</hi>
+                  </p>
+                  <p>Example 1. <hi>Let it be required to multiply</hi> 3496, by 489. As if it were required to know how much 489 times 3496 would amount unto.</p>
+                  <p>Firſt, Set down your given Num<g ref="char:EOLhyphen"/>ber
+<pb n="36" facs="tcp:61447:26"/>3496, and 489, one under ano<g ref="char:EOLhyphen"/>ther, and draw your Line under them, as here you ſee done.</p>
+                  <p>Secondly, 3496 your Multipli<g ref="char:EOLhyphen"/>cand being Tabulated, and 9 being <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> the firſt Fi<g ref="char:EOLhyphen"/>gure to the right hand in your Multiplier, look upon your Rods, what ſum there ſtands againſt 9 in the ſide of your Tabulat, and you ſhall finde (as by the Rules in the ſecond Prop. of the Fifth Chap. you were directed) 31464, which is the Product of 3496 multiplied by 9, wherefore ſet down this number 31464 under your Line, as you ſee in the Example.</p>
+                  <p>Thirdly, Look what ſum upon the Rods ſtands againſt 8, which is the ſecond Figure of your Multiplier, and
+<pb n="37" facs="tcp:61447:26"/>you ſhall finde 27968, ſet this num<g ref="char:EOLhyphen"/>ber under the former, moving it one place forward towards the left hand.</p>
+                  <p>Fourthly, Look what ſum upon the Rods ſtands againſt 4 which is the third Figure in your Multiplier, and you ſhall finde 13984, which ſet down under the other, one place more to the left hand.</p>
+                  <p>Laſtly, Under theſe three Sums draw a Line and add the three ſums together, and they make 1709544, which is the Product of 3496 multi<g ref="char:EOLhyphen"/>plied by 489, and this 1709544 the Product, contains 3496 the Multi<g ref="char:EOLhyphen"/>plicand, 489 times.</p>
+                  <p>
+                     <hi>Practiſe well this firſt Example, and compare it with the Rods as they are Tabulated in Figure</hi> 4 <hi>at the be<g ref="char:EOLhyphen"/>ginning of the Book, as alſo with the Rules in the Fifth Chapter, and you may perform any Multiplication.</hi> However I will give you one or two
+<pb n="38" facs="tcp:61447:27"/>more Examples, and ſome other ways of <hi>Multiplication.</hi>
+                  </p>
+                  <p>Example 2. <hi>Let it be required to multiply the ſame ſum</hi> 3496 by 261.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Set the Numbers down as here is done, then look up<g ref="char:EOLhyphen"/>on the Rods for the Pro<g ref="char:EOLhyphen"/>duct of 3496 by 1, and you ſhall finde it to be the ſame, wherefore ſet down 3496 under the Line— then look upon the Rods for the Pro<g ref="char:EOLhyphen"/>duct of 3496 by 6, and you ſhall finde it to be 20976, which ſet down under the other number one place more towards the left hand.—A<g ref="char:EOLhyphen"/>gain, look in the Rods for the Pro<g ref="char:EOLhyphen"/>duct of 3496 multiplied by 2, and you ſhall finde it to be 6992, which ſet down under the other two.</p>
+                  <p>Laſtly, Draw a Line under them, and add the three numbers together in order as they ſtand, and the ſum
+<pb n="39" facs="tcp:61447:27"/>of them will be 912456, which is the Product of 3496 multiplied by 261.</p>
+                  <p>Example 3. <hi>Let it be required to multiply the ſame number</hi> 3496 by 520.</p>
+                  <p>Set down your Numbers as here you ſee done—Then becauſe the firſt Fi<g ref="char:EOLhyphen"/>gure <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> of your Multiplier to<g ref="char:EOLhyphen"/>wards your right hand is a Cypher, wholly omit it, and multiply 3496 by 52 only, ſo ſhall you finde the Product of 3496 by 2 to be 6992, which ſet down: Alſo the Product by 5 will be 17480, which ſet down under the other one place further, Then draw a Line — and add theſe two ſums together, and they make 181792, to the which if you add a Cypher for the Cypher which you omitted in your Multiplier, the ſum will be 1817920, which is the Product of 3496 by 520.</p>
+                  <p>Example 4. <hi>Let it be required to
+<pb n="40" facs="tcp:61447:28"/>multiply the ſame</hi> 3496 by 7003—</p>
+                  <p>Set down your Numbers as before, and as you ſee here done, Then ha<g ref="char:EOLhyphen"/>ving <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Tabulated 3496, ſee what the Product thereof is upon the Rods being multiplied by 3 the firſt Figure in your Multi<g ref="char:EOLhyphen"/>plier, and you ſhall finde it to be 10488, which ſet down un<g ref="char:EOLhyphen"/>der the Line—Then the two next places of your Multiplier being Cy<g ref="char:EOLhyphen"/>phers, make two pricks under the former number, one under 8, the o<g ref="char:EOLhyphen"/>ther under 4, as you ſee in the Ex<g ref="char:EOLhyphen"/>ample, or inſtead of 2 pricks you may make two Cyphers,—Then look in the Rods for the Product of 3496 by 7, and you ſhall finde it to be 24472, which ſet down under the o<g ref="char:EOLhyphen"/>ther ſum, beginning your number at the fourth place, or beyond the two Pricks or Cyphers. Laſtly, draw a Line and add theſe two ſums toge<g ref="char:EOLhyphen"/>ther,
+<pb n="41" facs="tcp:61447:28"/>and their ſum is 24482488, which is the Product of 3496 mul<g ref="char:EOLhyphen"/>tiplied by 7003.</p>
+                  <p>Thus have you four Examples in <hi>Multiplication,</hi> in which are inclu<g ref="char:EOLhyphen"/>ded all the Varieties that may at any time happen in that Rule, <hi>viz.</hi> Two where the Multiplier conſiſted all of Figures, as in the firſt and ſecond Example they did.—Another where the latter place of the Multiplier con<g ref="char:EOLhyphen"/>ſiſted of a Cypher—And this laſt Example where Cyphers were inter<g ref="char:EOLhyphen"/>mixed among the Figures.</p>
+                  <p>And thus much for this kinde of Multiplication, but before I leave, I will ſhew you</p>
+               </div>
+               <div type="section">
+                  <head>Another Form of <hi>MULTIPLICATION.</hi>
+                  </head>
+                  <p>Whereas in the foregoing Form of Multiplication, which is the beſt and
+<pb n="42" facs="tcp:61447:29"/>moſt uſual, (only I inſert this fol<g ref="char:EOLhyphen"/>lowing for variety.) You began (your Rods being Tabulated) with that Figure of your Multiplier which ſtands next your right hand, but there is no neceſſity for that, for you may begin with that Figure which ſtand<g ref="char:EOLhyphen"/>eth next to your left hand, and by ſo doing, and placing your ſeveral Pro<g ref="char:EOLhyphen"/>ducts one place more to the right hand, as you did before place them to the left hand, thoſe Products ad<g ref="char:EOLhyphen"/>ded together in the Form they then ſtand, ſhall produce a Product equal to the former.</p>
+                  <p>
+                     <hi>Example,</hi> For our Example we will take the firſt Example before-going at the beginning of this Chapter, where <hi>it was required to multiply</hi> 3496 by 489. Set the Numbers down as before in that firſt Example, and as you ſee here done—
+<pb n="43" facs="tcp:61447:29" rendition="simple:additions"/> 
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Then 3496 being Tabula<g ref="char:EOLhyphen"/>ted, look upon your Rods for the Product thereof multiplied by 4, (which is the firſt Figure of your Multiplier towards your left hand) and you ſhall finde the Product thereof to be 13984, which ſet down.—Second<g ref="char:EOLhyphen"/>ly, look the Product of 3496 by 8 (your ſecond Figure) and you ſhall find it to be 27968, which muſt not be ſet down as in the other firſt Exam<g ref="char:EOLhyphen"/>ple but as you ſee it in this, 8 the firſt Figure thereof muſt be ſet one place forwards towards the right hand, as in the other it was ſet a place backward towards the left.—Laſtly, ſeek in your Rods for the Product of 3496 by 9 your laſt Figure, and you ſhall finde it to be 13984, which ſet under the other two Numbers yet one place more to the right hand.—So a Line being drawn under, and theſe three
+<pb n="44" facs="tcp:61447:30"/>Numbers added together produce 1709544 equal to that in the firſt Example: And that you may the better ſee the difference of the work, I have ſet them one by the other.</p>
+                  <p>As in the firſt Ex<g ref="char:EOLhyphen"/>ample, <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>As in this Example, <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>One Example more in Multiplica<g ref="char:EOLhyphen"/>tion, which ſhall be for Advertiſe<g ref="char:EOLhyphen"/>ment and direction, I will give, and ſo conclude Multiplication.</p>
+                  <p>I ſaid in the general Rule for working of <hi>Multiplication</hi> (at the be<g ref="char:EOLhyphen"/>ginning of this Chapter) that it mat<g ref="char:EOLhyphen"/>tered not which of your Numbers
+<pb n="45" facs="tcp:61447:30"/>were made the Multiplicand, or which the Multiplier, of which I will here give you a Preſident where the leſſer Number ſhall be Tabulated, and the greater Number only ſet down; and I will work it here according to this laſt way of Multiplication, and the Example ſhall be as followeth.</p>
+                  <p>Example, <hi>Let it be required to multiply</hi> 868437 by 3496, and let 3496 (the leſſer Number) be Ta<g ref="char:EOLhyphen"/>bulated.</p>
+                  <p>Let the Numbers be ſet as you here ſee, then 3496 being Tabula<g ref="char:EOLhyphen"/>ted, begin with the firſt Figure to<g ref="char:EOLhyphen"/>wards <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> the left hand of your Multiplier, which here is 8, and upon your Rods find the Product of 3496 multiplied by 8, which is 27968, ſet that down under the
+<pb n="46" facs="tcp:61447:31"/>Line — then finde the Product of 3496 by 6 the ſecond Figure of your Multiplier, and you ſhall finde that to be 20976, ſet this number under the former one place more towards the right hand.—Again the third Fi<g ref="char:EOLhyphen"/>gure of your Product is 8 whoſe Pro<g ref="char:EOLhyphen"/>duct is 27968 as before, ſet that un<g ref="char:EOLhyphen"/>der the other ſtill one place more to the right hand.—In this manner do with the other Figures of the Multiplier, as 4 the next Figure, whoſe Product is 13984, which alſo ſet down a place forward.—So alſo the Product of 3 which is 10488, which ſet down.—And laſtly, of 7, which is 24472.—All theſe Pro<g ref="char:EOLhyphen"/>ducts being ſet down in the order as you ſee them in the Margent, if you add them together, the ſum of them will be 3036055752, which is the Product of 3496 multiplied by 868437, the leſſer number being Tabulated.</p>
+                  <pb n="47" facs="tcp:61447:31"/>
+                  <p>
+                     <hi>Other ways of Multiplication I could have added, but theſe I eſteem ſufficient.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> DIVISION By the Rods.</head>
+               <p>AS in Multiplication, ſo in Divi<g ref="char:EOLhyphen"/>ſion there are three Numbers, Terms, or Things required, <hi>viz.</hi>
+               </p>
+               <p n="1">1. The <hi>Dividend</hi> or Number to be divided.</p>
+               <p n="2">2. The <hi>Diviſor</hi> or Number by which the Dividend is divided, and</p>
+               <p n="3">3. The <hi>Quotient,</hi> which is the Number iſſuing from the Dividends being divided by the Diviſor; And this <hi>Quotient</hi> doth always conſiſt of ſo many <hi>Unites</hi> as the <hi>Diviſor</hi> is
+<pb n="48" facs="tcp:61447:32"/>times contained in the <hi>Dividend.</hi>
+               </p>
+               <p>Thus much for the <hi>Definition</hi> of <hi>Diviſion,</hi> now let us come to the <hi>Pra<g ref="char:EOLhyphen"/>ctice</hi> of it by the <hi>Rods,</hi> to perform which, this is</p>
+               <div type="rule">
+                  <head>THE RULE</head>
+                  <p>
+                     <hi>Tabulate the Diviſor, (which is always the leſſer Number of the two gi<g ref="char:EOLhyphen"/>ven) and ſet down the Dividend, and ſet the Diviſor on the left hand, and draw a crooked Line on the right hand for your Quotient, as in common A<g ref="char:EOLhyphen"/>rithmetick. Then look upon your Ta<g ref="char:EOLhyphen"/>bulated Rods (always) for the Num<g ref="char:EOLhyphen"/>ber, leſs then the Number in the firſt Figures of your Dividend, and what Figure stands againſt that Number on the edge of your Tabulat muſt be the Figure you muſt put in your Quotient, and that Number you muſt always ſub<g ref="char:EOLhyphen"/>ſtract from the Figures of your Divi<g ref="char:EOLhyphen"/>dend, and to the remainder add ano<g ref="char:EOLhyphen"/>ther
+<pb n="49" facs="tcp:61447:32"/>Figure, ſo proceeding from Figure to Figure till your Diviſion be wholly ended.</hi>
+                  </p>
+                  <p>Example, <hi>Let it be required to di<g ref="char:EOLhyphen"/>vide</hi> 1709544, by 3496. Having tabulated 3496, ſet down your Di<g ref="char:EOLhyphen"/>vidend, your Diviſor on the left hand thereof, and a crooked Line for the Quotient on the right hand thereof, as by the Rule preceding you were directed, and as you ſee done in the Example adjoyning.</p>
+                  <p>And becauſe at your firſt ſetting down of your Diviſor 3496, it would reach (if it were ſet under your Di<g ref="char:EOLhyphen"/>vidend 1709544) as far as the Fi<g ref="char:EOLhyphen"/>gure 5, therefore under the Figure 5 make a Prick to intimate how far you are gone on in your work, and under this Prick draw a Line quite under your Dividend, then is your Sum ſet down ready for work, and will appear as here you ſee;
+<pb n="50" facs="tcp:61447:33"/>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Your Sum thus prepared, ask how often can you have 3496 in 17095, look in your Tabulated Rods for 17095, which you cannot there finde, but the neareſt number there<g ref="char:EOLhyphen"/>unto amongſt the Rods, which is leſs then 17095 (for you muſt always take a leſs number) is 13984, which number ſtands againſt the Figure 4 in the Tabulat, wherefore ſet 4 in your Quotient, and 13984 under the Line, and ſubſtract 13984 from 17095, and there will remain 3111, ſo is the firſt part of your Diviſion en<g ref="char:EOLhyphen"/>ded and your work will ſtand thus; <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Then make another Prick under 4 the next Figure of your Dividend, ſo
+<pb n="51" facs="tcp:61447:33"/>will the remaining number be 31114, —Then look among your Rods for the number 31114 (or the neareſt leſs then it) and the neareſt leſs you ſhall finde to be 27968, which ſtands againſt 8 in your Tabulat, put 8 in your Quotient, and ſet 27968 under 31114, and ſubſtract 27968 from 31114, ſo will there remain 3146, which ſet over head, ſo is the ſecond part of your Diviſion ended, and your work will appear thus; <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Laſtly, Make another Prick under the next Figure of your Dividend, which is 4 alſo, making the remain<g ref="char:EOLhyphen"/>ing number to be 31464, ſeek a<g ref="char:EOLhyphen"/>mong
+<pb n="52" facs="tcp:61447:34"/>your Tabulated Rods for this number (or the neareſt leſs) but looking you ſhall finde the very num<g ref="char:EOLhyphen"/>ber, againſt which ſtands on your Ta<g ref="char:EOLhyphen"/>bulat the Figure 9, ſet 9 in the Quo<g ref="char:EOLhyphen"/>tient, and the number 31464 under the Line, and ſubſtract it from 31464 the remainder which ſtands above the Line, and nothing remains, and being there is never another Figure in your Dividend, your Diviſion is ended, and your work will ſtand thus, and 3496 is contained in 1709544 489 times.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="53" facs="tcp:61447:34"/>
+                  <p>
+                     <hi>Another Example, and by another way of Diviſion.</hi>
+                  </p>
+                  <p>
+                     <hi>Let it be required to divide</hi> 912456 by 3496, ſet down your Dividend and Diviſor, draw a crooked Line for your Quotient, and alſo make a Prick under the fourth Fi<g ref="char:EOLhyphen"/>gure of your Dividend, and draw a Line under your Dividend, ſo is your Sum prepared to be divided, and will ſtand thus; <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Then your Diviſor 3496 being Ta<g ref="char:EOLhyphen"/>bulated, look amongſt your Rods for the neareſt number to 9124 which is leſs, and you ſhall finde it to be 6992, againſt which ſtands on your Tabulat the Figure 2, ſet 2 in the Quotient, and this Number under the Line, and ſubſtract it from 9124, and there will remain 2132, to which
+<pb n="54" facs="tcp:61447:35"/>number add the next Figure of your Dividend, namely 5, and it makes 21325, under which number draw a Line, then will your Sum ſtand thus, <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Then among your Rods ſeek the neareſt number to 21325 and you ſhall finde 20976 to be the neareſt number leſs, againſt which in your Tabulat ſtands 6, ſet 6 in the Quo<g ref="char:EOLhyphen"/>tient, and 20976 under the Line, ſubſtracting it from 21325, which when you have done, there will re<g ref="char:EOLhyphen"/>main 349, to 349 add the next Fi<g ref="char:EOLhyphen"/>gure in your Dividend, which is 6 your laſt Figure, and it makes 3496, under which draw a Line, and your work will ſtand as here you ſee,
+<pb n="55" facs="tcp:61447:35"/>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> This done, look amongſt your Rods for the neareſt number to 3496, and you ſhall finde the exact number at the top of the Rods, againſt which ſtands the Figure 1 on the Tabulat, ſet 1 in the Quotient, and ſubſtract 3496 from 3496, the remainder is nothing, and ſo is your Diviſion end<g ref="char:EOLhyphen"/>ed, the work ſtanding thus, and 3496 the Diviſor is contained in 912456 the Dividend, 261 times.</p>
+                  <pb n="54" facs="tcp:61447:36"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="55" facs="tcp:61447:36"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="56" facs="tcp:61447:37"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <hi>A third Example ready wrought by the laſt and beſt way of Diviſion.</hi> I will only ſet it down ready wrought, leaving the practice of it to your ſelf.</p>
+                  <p>
+                     <hi>Let it be required to divide</hi> 73020506 by 3496.</p>
+                  <pb n="57" facs="tcp:61447:37"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> This Sum thus divided, produceth in the Quotient 20886, and 3050 re<g ref="char:EOLhyphen"/>maining, ſo that the Quotient with Fraction and all is, <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Which ſhews that 3496 the Diviſor is contained in 73020506 the Dividend, 20886 times, and 3050 remaining.</p>
+                  <pb n="58" facs="tcp:61447:38"/>
+                  <p>
+                     <hi>This Example well practiſed, toge<g ref="char:EOLhyphen"/>ther with them before-going, are ſuffi<g ref="char:EOLhyphen"/>cient inſtruction for any Student whatever, and he that can perform theſe need not deſpair of the moſt dif<g ref="char:EOLhyphen"/>ficult that can be propoſed.</hi> And ſo I conclude with Diviſion.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII. Concerning the</hi> Rule of Three <hi>OR</hi> Golden Rule, <hi>Both</hi> Direct <hi>and</hi> Reverſe, <hi>or</hi> Reciprocal.</head>
+               <p>TO Diſcourſe of this Rule at large were to run into a Labyrinth, for
+<pb n="59" facs="tcp:61447:38"/>it was the performance of working Multiplication and Diviſion by the Rods that was here aimed at, and he that can Multiply and Divide may command this <hi>Golden Rule,</hi> wherefore I will ſhew you the nature or order of placing the Numbers, and alſo the manner of working an Example in either of them.</p>
+               <p>The <hi>Rule of Three</hi> is that Rule which teacheth by having three Numbers in proportion one to ano<g ref="char:EOLhyphen"/>ther given, to finde a fourth, which ſhall be in proportion to them alſo.</p>
+               <p>In this <hi>Rule direct</hi> the fourth Num<g ref="char:EOLhyphen"/>ber which is ſought, is to have the ſame proportion to the third, as the ſecond Number hath to the firſt: As if the three Numbers given were 2-4— and 8, ſay, as 2 is to 4, ſo is 8- to what? multiply 4 by 8 (that is the ſecond Number by the third) and the Product will be 32, which divide by 2 (the firſt Number) the
+<pb n="60" facs="tcp:61447:39"/>Quotient will be 16, which is the fourth Number in proportion to the third, as the ſecond is to the firſt; for as 4 the ſecond Number, contains 2 the firſt Number twice, ſo 16 the fourth Number contains 8 the third Number twice alſo.</p>
+               <p>But in the <hi>Reciprocal Rule of Three,</hi> there the proportion is not as the firſt to the ſecond, ſo the third to the fourth: But <hi>as the Firſt is to the Third, ſo is the ſecond to the Fourth.</hi> As if the Numbers were 3, 4, and 6, ſay, As 3 the firſt Number, is to 6 the third Number, ſo is 4 the ſecond Number; to what? Multiply 4 the ſecond Number by 3 the firſt Num<g ref="char:EOLhyphen"/>ber, the Product is 12, which divide<g ref="char:EOLhyphen"/>by 6 the third Number, and the Quo<g ref="char:EOLhyphen"/>tient will be 2: for as 6 the third Number, contains 3 the firſt Num<g ref="char:EOLhyphen"/>ber twice, ſo 4 the ſecond Number contains 2 the fourth Number twice alſo: And in this conſiſts the dif<g ref="char:EOLhyphen"/>ference
+<pb n="61" facs="tcp:61447:39"/>between the <hi>Direct</hi> and <hi>Re<g ref="char:EOLhyphen"/>ciprocal Rule of Three.</hi>
+               </p>
+               <p>A Queſtion in each Rule,</p>
+               <p n="1">1. <hi>In the Direct Rule;</hi>
+               </p>
+               <p>
+                  <hi>If four Men eat two Pecks of Corn in one week, how many Pecks will ſerve an hundred Men the ſame time?</hi>
+                  <table>
+                     <row>
+                        <cell>Men</cell>
+                        <cell>Pecks</cell>
+                        <cell>Men.</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>2</cell>
+                        <cell>100.</cell>
+                     </row>
+                  </table> Multiply 2 the ſecond Number by 100 the third Number, the Product will be 200, which divide by 4 the firſt Number, and the Quotient will be 50, and ſo many Pecks will ſuf<g ref="char:EOLhyphen"/>fice 100 men the ſame time.</p>
+               <p n="2">2. <hi>In the Reciprocal,</hi>
+               </p>
+               <p>
+                  <hi>If twelve men do any piece of work in</hi>
+                  <pb n="62" facs="tcp:61447:40"/>8 <hi>days, how many men muſt be im<g ref="char:EOLhyphen"/>ployed to do the ſame piece of work in</hi> 2 <hi>days?</hi>
+                  <table>
+                     <row>
+                        <cell>Days</cell>
+                        <cell>Men</cell>
+                        <cell>Days.</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>12</cell>
+                        <cell>2.</cell>
+                     </row>
+                  </table> Multiply 8 the firſt Number, by 12 the ſecond, their Product is 96, which divide by 2 the third Number, the Quotient will be 48, and ſo many men will do the ſame work in 2 days, for as 8 days is to 2 days, ſo are 12 men to 48 men, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="63" facs="tcp:61447:40"/>
+               <head>
+                  <hi>CHAP. IX.</hi> Of the Extraction of ROOTS.</head>
+               <p>THe Extraction of <hi>Roots,</hi> which is the difficulteſt part of Multi<g ref="char:EOLhyphen"/>plication and Diviſion, is expediti<g ref="char:EOLhyphen"/>ouſly and certainly performed by the Rods, for the eaſie and expedite per<g ref="char:EOLhyphen"/>formance of which, there are two Rods on purpoſe, one for the Square, the other for the Cube Root, of which I will ſpeak; firſt, Of their Fabrick: ſecondly, of their Uſe.</p>
+               <div type="section">
+                  <head>Of the Fabrick of the Rods for Ex<g ref="char:EOLhyphen"/>tracting of Roots.</head>
+                  <p>Of the ſame matter, and of the ſame length and thickneſs of your o<g ref="char:EOLhyphen"/>ther
+<pb n="64" facs="tcp:61447:41" rendition="simple:additions"/>Rods, let there be made another Rod but three times the breadth of the former, the Inſcription on one ſide ſerving to extract the Square, and that on the other ſide for the Cube Root, each of which are divided into three Rows or Columes.</p>
+                  <p>That which ſerveth for the Square Root, hath in the top or uppermoſt Square between the Diagonal thereof, theſe Figures 0-1, in the ſecond 0-4, in the third 0-9, in the fourth 1-6, in the fifth 2-5, in the ſixth 3-6, in the ſeventh 4-9, in the eighth 6-4, and in the ninth or lowermoſt 8-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, which are the Square Numbers be<g ref="char:EOLhyphen"/>longing to the nine Digits. —</p>
+                  <p>In the ſecond Colume of the ſame Rod, in the firſt Square is inſcribed 2, in the ſecond 4, in the third 6, in the fourth 8, in the fifth 10, in the ſixth 12, in the ſeventh 14, in the eighth 16, and in the ninth 18.</p>
+                  <p>In the laſt or third, Colume there
+<pb n="65" facs="tcp:61447:41"/>are the nine Digits orderly deſcend<g ref="char:EOLhyphen"/>ing, namely, 1, 2, 3, 4, 5, 6, 7, 8, 9. This Rod thus made is fitted for the Square Root.</p>
+                  <p>That which ſerveth for the Cube Root, hath in the top or uppermoſt Square of the firſt Colume towards the left hand between the Diagonal thereof, theſe Figures, 0-01, in the ſecond 0-08, in the third 0-27, in the fourth 0-64, in the fifth 1-25, in the ſixth 2-16, in the ſeventh 3-43, in the eighth 5-12, and in the ninth 7-29, which are Cube Num<g ref="char:EOLhyphen"/>bers orderly deſcending — The ſecond Colume of this Rod contains theſe ſquare Numbers, 1, 4, 9, 16, 25, 36, 49, 64, 81, orderly de<g ref="char:EOLhyphen"/>ſcending. — The third and laſt Colume of this Rod hath in it the nine Digits, 1, 2, 3, 4, 5, 6, 7, 8, 9, orderly deſcending alſo.</p>
+                  <p>This Rod thus prepared and in<g ref="char:EOLhyphen"/>ſcribed, is fit for extracting of the
+<pb n="66" facs="tcp:61447:42"/>Square and Cube Roots, a Figure of either ſide whereof you have at the beginning of the Book: That which ſerveth for the Square Root having the word <hi>Square</hi> written over head, that for the Cube Root, hath <hi>Cube</hi> written over head.</p>
+                  <p>Thus having given you the Fabrick and Inſcription of theſe Rods, I will now ſhew you their uſe; And firſt,</p>
+               </div>
+               <div type="section">
+                  <head>Concerning the Extracting of the Square-Root.</head>
+                  <p>In Extracting of the Square-Root, you muſt as in common Arithmetick, when you have ſet down your Num<g ref="char:EOLhyphen"/>ber, make a Prick under the firſt Fi<g ref="char:EOLhyphen"/>gure towards your right hand, and ſo ſucceſſively under every ſecond Fi<g ref="char:EOLhyphen"/>gure, then under thoſe Pricks, draw two Lines parallel whereinto ſet the Figures of your Root as you finde them: Your Number being thus pla<g ref="char:EOLhyphen"/>ced
+<pb n="67" facs="tcp:61447:42"/>and pricked as before is directed, and as in the following Example you ſee done, you may proceed to Ex<g ref="char:EOLhyphen"/>tract the Root thereof as followeth.</p>
+                  <p>
+                     <hi>Example</hi> 1. Let it be required to finde the Square-Root of this Num<g ref="char:EOLhyphen"/>ber 12418576, firſt, make a Prick under 6, another under 5, another under 1, and another under 2, under which Points draw two Lines, in which you muſt place your Root, and then will your Number ſtand thus, <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Take the Rod for Extracting of the Square-Root, and look in the firſt row or Colume thereof for the neareſt Number you can there finde leſs then 12 (which is as far as the firſt Prick in your Number reaches) and you
+<pb n="68" facs="tcp:61447:43"/>ſhall finde 9, againſt which in the third Colume you ſhall finde 3, ſet 3 under the firſt point between the Lines, and 9 under the Line, and ſubſtracting 9 from 12, there will re<g ref="char:EOLhyphen"/>main 3, which ſet over 12, ſo will your Number ſtand thus;</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Then in the middle Colume of your Rod between 9 and 3 there ſtands 6, take there<g ref="char:EOLhyphen"/>fore one of your Rods which hath 6 at the top thereof, and lay it upon your Ta<g ref="char:EOLhyphen"/>bulat by the left ſide of your ſquare Rod, then being there is 341 to the next Prick, ſeek the neareſt Number leſs upon your two Rods, and you ſhall finde the next leſs to be 325, a<g ref="char:EOLhyphen"/>gainſt which in the laſt Colume of your Square Rod ſtands 5, therefore place 5 under your ſecond Prick, and ſet 325 under 341, and ſubſtracting
+<pb n="69" facs="tcp:61447:43"/>it from 341, there will remain 16, which ſet over head, then will the Sum appear thus;</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> And in the middle Colume of your Square Rod againſt this 5 there ſtands 10, for this 10 you ſhould take a Rod that hath 10 at the top, but being there is no ſuch, take therefore one that hath a Cypher, and place that between your Square Rod and your Rod of 6, and change your Rod 6 for one of 7, then ſhall you have upon your Tabulat one Rod of 7, another of 0, and your Square Rod.</p>
+                  <p>Thus muſt you al<g ref="char:EOLhyphen"/>ways do when the Number in the middle Colume exceeds 10.</p>
+                  <p>Then looking upon your Sum you ſhall finde 1685 to your third Prick; look therefore upon your Rods for the
+<pb n="70" facs="tcp:61447:44"/>neareſt leſs Number, which you ſhall finde to be 1404, againſt which ſtands 2 in the laſt Colume, ſet 2 be<g ref="char:EOLhyphen"/>tween the Lines under the third Prick, and 1404 under 1685, and ſubſtracting it from 1685, and there will remain 281, which place above, ſo will your Sum ſtand thus;</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> And becauſe the Num<g ref="char:EOLhyphen"/>ber ſtanding againſt in the middle Colume of your Square Rod be<g ref="char:EOLhyphen"/>tween 1404 and 2 was 4, ſet 4 under your laſt Prick, and take a Rod of 4, and put it be<g ref="char:EOLhyphen"/>tween your ſquare Rod and your Rod of 0; and becauſe 28176 remains upon your Sum to the laſt Prick. Look up<g ref="char:EOLhyphen"/>on your Rods for the neareſt Number thereunto, and you ſhall finde the ve<g ref="char:EOLhyphen"/>ry Number it ſelf to ſtand againſt the
+<pb n="71" facs="tcp:61447:44"/>Figure 4, ſet therefore 28176 be<g ref="char:EOLhyphen"/>low, and ſubſtract it from that above, and there will remain nothing, which denotes the Number 12418576 to be a ſquare Number, and the Root thereof to be 3524, and the work fi<g ref="char:EOLhyphen"/>niſhed will ſtand thus; <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>This Sum had it been wrought by that ſecond way of Diviſion, which I ſhewed in Chapter 7, it would ſtand as followeth;</p>
+                  <pb n="72" facs="tcp:61447:45"/>
+                  <p>Square <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> Root.</p>
+                  <div type="caution">
+                     <head>Caution.</head>
+                     <p>If at any time you look for the re<g ref="char:EOLhyphen"/>mainder upon your Rods, and you cannot finde it there, you muſt then place a Cypher between the Lines, and proceed to the next Figure, as by trying this other Example which I have inſerted for practice will ap<g ref="char:EOLhyphen"/>pear.</p>
+                  </div>
+               </div>
+               <div type="example">
+                  <pb n="73" facs="tcp:61447:45"/>
+                  <head>Another Example added for Practice.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> Concerning the Extraction of the Cube Root.</head>
+               <p>THere is ſomewhat more difficul<g ref="char:EOLhyphen"/>ty in Extracting of the Cube,
+<pb n="74" facs="tcp:61447:46"/>then of the Square Root. Where<g ref="char:EOLhyphen"/>fore (before I come to Example) I will deliver the manner of the Ope<g ref="char:EOLhyphen"/>ration, together with ſuch Cautions as are to be obſerved in the perform<g ref="char:EOLhyphen"/>ance thereof; All which immediate<g ref="char:EOLhyphen"/>ly follow in this</p>
+               <div type="rule">
+                  <head>GENERAL RULE.</head>
+                  <p>Write down the Number whoſe Cube Root you are to Extract, and un<g ref="char:EOLhyphen"/>der the firſt Figure towards the right hand make a Prick or Point, and ſo under every third Figure towards the left hand, till you come to the end of your Number. Under theſe Pricks draw two Parallel Lines, (as you did in Extracting the Square Root) be<g ref="char:EOLhyphen"/>tween which Lines you are to place the Figures of your Root as you finde them; —Then beginning at the Figure (or Figures) of the left hand Prick, and going forward towards the right hand, Extract (by help of the Rod for Ex<g ref="char:EOLhyphen"/>tracting
+<pb n="75" facs="tcp:61447:46"/>tracting the Cube Root) their Root, (or if the true Number be not on the Plate, then the neareſt leſs, and pla<g ref="char:EOLhyphen"/>cing this Root, (which never exceeds one Figure) between the Lines, and under its Point, and take its Cube from the uppermoſt Figures, which ſtand be<g ref="char:EOLhyphen"/>fore (or leftwards) of the firſt Point, and note the Remainder above.</p>
+                  <p>Secondly, Keep the Triple of this Root ſound, in the head or top of the Rods, and triple the Square of the ſame Root, and ſet this Triple on the head of the Rods, and apply it left<g ref="char:EOLhyphen"/>wards of the Cubick Rod, and the re<g ref="char:EOLhyphen"/>ſerved Rod (or Rods) right-wards, the Cubick Rod being in the midſt between them, and out of the left hand Rods and the Cubick Rod together, pick or finde out the Multiple, (or next leſs Num<g ref="char:EOLhyphen"/>ber) then the Figures preceding the ſe<g ref="char:EOLhyphen"/>cond Point, which write apart in a Pa<g ref="char:EOLhyphen"/>ter, and note its Quotume over its ut<g ref="char:EOLhyphen"/>moſt right-hand Figure, and write the
+<pb n="76" facs="tcp:61447:47"/>Square of that Quotume left-wards from the Quotume it ſelf, even in that order as you finde them in your Cubick Rod, and under every ſeveral Figure of this Square, write their Multiples found right-wards, even ſuch as the Figures themſelves do ſhew. So that every Multiple may end under its Fi<g ref="char:EOLhyphen"/>gure or Quotume; then add together theſe Multiples croſs-wiſe, and take their ſum from the Figures foregoing the ſecond Point, and write the Re<g ref="char:EOLhyphen"/>mainder over them, but write the right-hand Quotume before noted un<g ref="char:EOLhyphen"/>der the ſecond Point between the Lines, for the ſecond Figure or Quotume of the Root: And ſo is performed the Operation of the ſecond Point, which you muſt repeat through the ſeveral Points, even to the laſt.</p>
+                  <p>
+                     <hi>But in the practice by this Rule, you may ſometimes be at a ſtand, wherefore to this</hi> GENERAL
+<pb n="77" facs="tcp:61447:47"/>RULE <hi>(that there may be no ob<g ref="char:EOLhyphen"/>ſtacle) I will add theſe two</hi> CALL<g ref="char:EOLhyphen"/>TIONS.</p>
+               </div>
+               <div n="1" type="caution">
+                  <head>1. CAUTION.</head>
+                  <p>
+                     <hi>But in all Operations and Points it muſt be obſerved,</hi> That if no Mul<g ref="char:EOLhyphen"/>tiple (no not the leaſt of all) found in the left Rods, and the plate, may be ſubſtracted from the foregoing Re<g ref="char:EOLhyphen"/>mains, then a Cypher <hi>[o]</hi> muſt be put under that Point for the Quo<g ref="char:EOLhyphen"/>tume, the Remains being untouched, and abiding as before.</p>
+               </div>
+               <div n="2" type="caution">
+                  <head>II. CAUTION.</head>
+                  <p>And if the aforeſaid Sum to be ta<g ref="char:EOLhyphen"/>ken away, cannot be taken from the Figures going before its Point, the ſmaller Multiples muſt be added, which the next upper Quotumes in the
+<pb n="78" facs="tcp:61447:48"/>Cubick Rod do ſhew in the Rods, whoſe Sum may be tuken away therefrom.</p>
+               </div>
+               <div type="section">
+                  <head>EXAMPLE Of the <hi>Cubick Extraction.</hi>
+                  </head>
+                  <p>Let 22022635627 be a Num<g ref="char:EOLhyphen"/>ber given, whoſe Cube Root you deſire: Set down your Number, and point it, (beginning at 7 the laſt Figure towards the right hand, and ſo under every third Figure) and draw two Parallel Lines under it, and it will ſtand in this manner; <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="79" facs="tcp:61447:48"/>
+                  <p>Look in your Rod for the Extra<g ref="char:EOLhyphen"/>cting the Cube Root, for the near<g ref="char:EOLhyphen"/>eſt Cube Root of the Figures of your given Number ſtanding before the firſt Point towards your left hand, namely for the neareſt Cube Root of the Number leſs then 22, which you ſhall finde to be 2, which ſet be<g ref="char:EOLhyphen"/>tween the two Lines juſt under the firſt Point, and its Cube (which is 8) ſet under the Line, and ſubſtract it from the Figures above the Line, namely from 22, and there will re<g ref="char:EOLhyphen"/>main 14, which place orderly above, then will your work ſtand thus, and the work of your firſt Point finiſhed.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="80" facs="tcp:61447:49"/>
+                  <p>Secondly, For the finding of the Root belonging to the ſecond Prick, triple the Quotume or Figure which is under the firſt Prick (namely 2) and it is 6, finde therefore a Rod which hath 6 at the head thereof, and lay that Rod by the ſide of your Cu<g ref="char:EOLhyphen"/>bick Rod towards the right hand, then triple the Square of 2 (which is 4) and it makes 12, which found among the Rods, place by the ſide of the Cubick Rod towards the left hand.</p>
+                  <p>Then from the Rods which lie on the left hand of the Cubick Rod, and the Cubick Rod it ſelf, finde the nea<g ref="char:EOLhyphen"/>reſt leſser Number then the Figures ſtanding before the ſecond Prick, namely, leſs then 14022, and in the ninth place you ſhall finde 11529, which write by it ſelf as
+<pb n="81" facs="tcp:61447:49"/>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> in the Margine, and over 9 the laſt Figure towards the right hand (drawing firſt a Line between) ſet its Quotume, and by it its Square 81, in the ſame order as you finde them ſtand in your Cubick Rod.</p>
+                  <p>Then write under 1, its Multiple, which is ſhewed right-wards againſt 1 in the Cubick Rod, and is the ſin<g ref="char:EOLhyphen"/>gle Figure 6, and under 8 write the Multiple that it ſhews right-ward a<g ref="char:EOLhyphen"/>gainſt 8 in the Cubick Rod, which is 48, and theſe three Multiples ſo written croſs-wiſe below the Line, and added together (as in the Mar<g ref="char:EOLhyphen"/>gine) do produce 16389, which, becauſe they cannot be taken from the upper Figures ſtanding before the ſe<g ref="char:EOLhyphen"/>cond Point, namely from 14022, the Number 9 (before taken) is to be rejected, as being too great, and in<g ref="char:EOLhyphen"/>ſtead of 819 (by the ſecond Cau<g ref="char:EOLhyphen"/>tion)
+<pb n="82" facs="tcp:61447:50"/>the next higher Notes in the Plate are to be taken, which are 648, and the Multiples that theſe do ſhew, namely the Octuple among the left Rods, which is 10112, and the Qua<g ref="char:EOLhyphen"/>druple among the right Rods which is <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> 24, and the Sextuple a<g ref="char:EOLhyphen"/>mong the right Rods, which is 36, being added croſs-wiſe (as in the Margine) do produce 13952, which ſubſtracted from 14022, (the Fi<g ref="char:EOLhyphen"/>gures ſtanding before the ſecond Prick) there remains 70 for the re<g ref="char:EOLhyphen"/>main of the ſecond Prick, and let there be taken for the Quotume of the ſecond Prick, the right-moſt of the choſen Figures 648, which is 8, which place under the ſecond Point between the Lines; ſo is the ſecond Figure of your Root found, and your work will ſtand thus,
+<pb n="83" facs="tcp:61447:50"/>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Thirdly, Put the Triple of the pre<g ref="char:EOLhyphen"/>cedent Quotumes (<hi>viz.</hi> 28 between the Lines) which is 84, being taken out of the Rods, and put them on the right-ſide of the Cubick Rod, and get the Triple of the Squate of the ſame 28, which may be found to be<gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> 2352, which taken out of the Rods and place on the left-ſide of the Cu<g ref="char:EOLhyphen"/>bick Rod: And of the Multiples on the left<g ref="char:EOLhyphen"/>hand Rods, and the ſim<g ref="char:EOLhyphen"/>ple ſingle Figures upon the Cubick Rod (the
+<pb n="84" facs="tcp:61447:51"/>leaſt of which being 235201) there is none ſo little that may be ſubſtract<g ref="char:EOLhyphen"/>ed from the Figures belonging to the third Point, namely from 70635; Therefore (by the firſt Caution) the Remains abiding, or continuing as they are, you muſt put a Cypher un<g ref="char:EOLhyphen"/>der the third Point, for the third Quotume belonging to the third Point: And thus the Operation of the third Point is accompliſhed, and the work will ſtand as followeth;<gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Fourthly, Set the Triple of the foregoing Quotumes (<hi>viz.</hi> 280)
+<pb n="85" facs="tcp:61447:51"/>which is 840 on the right-hand, and the Triple of the Square of the ſame 280, which is 225200<gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> on the left-hand, and the Cubick Rod be<g ref="char:EOLhyphen"/>tween them; Then out of the left-moſt Multi<g ref="char:EOLhyphen"/>ples, chooſe that which is next leſs then the Fi<g ref="char:EOLhyphen"/>gures belonging to the fourth Point, namely 70635627, which is this 70560027, which ſtands againſt 3 on the Ta<g ref="char:EOLhyphen"/>bulat, wherefore write this Number 70560027 upon Paper as in the Margine, with a Line over it, and ſet <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> over the Line the Quotient 3, over its right-moſt Figure, and the Square of the ſaid Quotume 3, which is 9, left-ward thereof, and the Noncuple found in the right<g ref="char:EOLhyphen"/>hand
+<pb n="86" facs="tcp:61447:52"/>Rods, which is 7560 write un<g ref="char:EOLhyphen"/>der 9, let theſe two Multiples be ad<g ref="char:EOLhyphen"/>ded as in the Margine, and the Sum will be 70625627, which ſubſtracted from the Figures foregoing the fourth Prick, and there will nothing remain; therefore let the right-moſt of the Figures of 93, <hi>viz.</hi> 3, be placed un<g ref="char:EOLhyphen"/>der the fourth and laſt Point, for the fourth and laſt Quotume of the Root, and ſo the whole and perfect Cu<g ref="char:EOLhyphen"/>bick Root of the given Number 22022635627, is 2803, and being nothing remained, it is a perfect Cu<g ref="char:EOLhyphen"/>bick Number. The like is to be done in other Numbers, but I ſhall forbear to give you any more Examples, there falling out in this all the variety that at any time may happen for the <hi>Ge<g ref="char:EOLhyphen"/>neral Rule</hi> and the two <hi>Cautions</hi> be<g ref="char:EOLhyphen"/>fore premiſed are here made applica<g ref="char:EOLhyphen"/>ble to Practice; wherefore to this Treatiſe for the preſent I will put</p>
+               </div>
+            </div>
+            <trailer>An End.</trailer>
+            <pb facs="tcp:61447:52"/>
+            <pb facs="tcp:61447:53"/>
+         </div>
+      </body>
+   </text>
+</TEI>
